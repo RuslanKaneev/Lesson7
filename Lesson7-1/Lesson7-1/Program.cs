@@ -17,4 +17,9 @@ else
 {
     Console.WriteLine($"Число нечетное");
 }
+if (chislopolz == 0)
+{
+
+    Console.WriteLine($"Вы ввели ноль");
+}
 Console.ReadKey();
